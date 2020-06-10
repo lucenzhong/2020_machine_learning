@@ -4,7 +4,7 @@
 务必将dataset整个文件夹下载下来，并将文件夹移动到creditcardfraud目录下
 
 
-### 项目所需要的
+### 项目所需要的库
 
 tensorflow、keras、sklearn等
 
