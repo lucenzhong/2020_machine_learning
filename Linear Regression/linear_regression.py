@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 '''
 # 程序运行方式： python linear_regression.py
 # 数据集：波士顿房价数据集   数据集介绍：https://www.kesci.com/home/dataset/590bd595812ede32b73f55f2
-# 如果运行有问题，请学长/学姐随时联系我 qq:1406997434
+
 
 
 def save_data_as_csv():
